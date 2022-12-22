@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://mtrnord.github.io/matrix-spam-ml"
 
+title = "Matrix Spam ML"
+discription = "Documentation for the Matrix Spam ML project"
+
 theme = "book"
 
 # Whether to automatically compile all Sass files in the sass directory
